@@ -1,0 +1,5 @@
+################################################################################
+# Este script irá criar os binários universais para os devices iOS. 
+# Como saída você vai obter as bibliotecas estáticas incluindo os headers
+# do OpenCV.
+################################################################################
